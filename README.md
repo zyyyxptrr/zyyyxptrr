@@ -10,7 +10,7 @@
 
 ## Hoby
 
-- Cyber Security Researcher at @Hacker0x01
+- Cyber Security Researcher at Hackerrank
 - White Hat Hacker (Bug Hunter who doesn't expect wages, just helps willingly)
   
 ## Contact
