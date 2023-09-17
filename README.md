@@ -11,7 +11,7 @@
 ## Hoby
 
 - Cyber Security Researcher at Hackerrank
-- White Hat Hacker (Bug Hunter who doesn't expect wages, just helps willingly)
+- Bug Hunter who doesn't expect wages, just helps willingly
   
 ## Contact
 
