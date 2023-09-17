@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**zyyyxptrr/zyyyxptrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=zyyyxptrr&label=zyyyxptrr+profile+visitor&style=for-the-badge)
+<img src="https://img.shields.io/github/followers/zyyyxptrr?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 20 years old, female
+- I like strawberries and chocolate
+
+## Hoby
+
+- Cyber Security Researcher at @Hacker0x01
+- White Hat Hacker (Bug Hunter who doesn't expect wages, just helps willingly)
+  
+## Contact
+
+- nmseptiyp@gmail.com
