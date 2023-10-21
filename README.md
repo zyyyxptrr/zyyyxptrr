@@ -16,7 +16,8 @@
 
 ## Part Time
 
-- Web Security Research at [Exa Creative](https://github.com/exacreativedev)
+- Web Vulnerability Search 
+- Computer Security Incident Response Team
 
 ## Contact
 
