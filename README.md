@@ -13,7 +13,11 @@
 ## Hoby
 
 - Bug Hunter who doesn't expect wages, just helps willingly
-  
+
+## Part Time
+
+- Web Security Research at [Exa Creative](https://github.com/exacreativedev)
+
 ## Contact
 
 - septiyani@exacreative.com
