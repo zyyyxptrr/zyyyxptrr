@@ -5,18 +5,4 @@
 
 ## About
 
-- 20 years old, female
-- I like strawberries and chocolate
-
-## Hoby
-
-- Bug Hunter who doesn't expect wages, just helps willingly
-
-## Part Time
-
-- Web Vulnerability Search 
-- Computer Security Incident Response Team
-
-## Contact
-
-- septiyani@exacreative.com
+- 📫 How to reach me: septiyani@exacreative.com
